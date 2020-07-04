@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users ASOF_DATE="4/27/2020" CREATE_DATE="4/27/2020" RECORDS="25">
+ <User>
+  <id>1</id>
+  <firstName>Ramesh</firstName>
+  <lastName>Fadatare</lastName>
+  <age>28</age>
+  <gender>Male</gender>
+  <touchcount>11</touchcount>
+  <version>12</version>
+  <SEC_DESC1>INDIAN LIFE</SEC_DESC1>
+  <odr_hist>
+	<SEC_DESC1>AUS LIFE</SEC_DESC1>
+  </odr_hist>
+ </User>
+ <User>
+  <id>2</id>
+  <firstName>John</firstName>
+  <lastName>Cena</lastName>
+  <age>45</age>
+  <gender>Male</gender>
+  <touchcount>13</touchcount>
+  <version>14</version>
+  <SEC_DESC1>UK LIFE</SEC_DESC1>
+  <odr_hist>
+	<SEC_DESC1>AUS LIFE</SEC_DESC1>
+  </odr_hist>
+ </User>
+ <User>
+  <id>3</id>
+  <firstName>Tom</firstName>
+  <lastName>Cruise</lastName>
+  <age>40</age>
+  <gender>Male</gender>
+  <touchcount>15</touchcount>
+  <version>16</version>
+  <SEC_DESC1>US LIFE</SEC_DESC1>
+  <odr_hist>
+	<SEC_DESC1>AUS LIFE</SEC_DESC1>
+  </odr_hist>
+ </User>
+</Users>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users ASOF_DATE="7/04/2020 13:01:18.$" CREATE_DATE="7/04/2020 13:01:18.$" RECORDS="25">
+ <User>
+  <id>1</id>
+  <firstName>Ramesh</firstName>
+  <lastName>Fadatare</lastName>
+  <age>28</age>
+  <gender>Male</gender>
+  <touchcount>12</touchcount>
+  <version>13</version>
+  <SEC_DESC1>INDIAN LIFE 7/04/2020 13:01:18.$</SEC_DESC1>
+  <odr_hist>
+	<SEC_DESC1>AUS LIFE 7/04/2020 13:01:18.$</SEC_DESC1>
+  </odr_hist>
+ </User>
+ <User>
+  <id>2</id>
+  <firstName>John</firstName>
+  <lastName>Cena</lastName>
+  <age>45</age>
+  <gender>Male</gender>
+  <touchcount>14</touchcount>
+  <version>15</version>
+  <SEC_DESC1>UK LIFE 7/04/2020 13:01:18.$</SEC_DESC1>
+  <odr_hist>
+	<SEC_DESC1>AUS LIFE 7/04/2020 13:01:18.$</SEC_DESC1>
+  </odr_hist>
+ </User>
+ <User>
+  <id>3</id>
+  <firstName>Tom</firstName>
+  <lastName>Cruise</lastName>
+  <age>40</age>
+  <gender>Male</gender>
+  <touchcount>16</touchcount>
+  <version>17</version>
+  <SEC_DESC1>US LIFE 7/04/2020 13:01:18.$</SEC_DESC1>
+  <odr_hist>
+	<SEC_DESC1>AUS LIFE 7/04/2020 13:01:18.$</SEC_DESC1>
+  </odr_hist>
+ </User>
+</Users>
